@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+.container {
+    width: 1280px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .main-header {
+    height: 70px;
+    background-color: #0EFF03;
+    margin-left: -282px;
+}
+.container .main-nav {
+    background-color: #09D900;
+    margin-left: -282px;
+}
+.container .main-photo {
+    height: 671px;
+    width: 1001px;
+    background-image: url(file:///C|/Users/joshh/Documents/Web%20shit/Unnamed%20Site%202/123.JPG);
+    margin-left: 278px;
+    margin-top: -511px;
+}
+.container .Photo1 {
+    width: 521px;
+    height: 509px;
+    background-image: url(file:///C|/Users/joshh/Documents/Web%20shit/Unnamed%20Site%202/Playful%20Piece%20COMMVIS.JPG);
+    margin-top: 19px;
+    margin-left: -281px;
+}
+
+.container .main-section {
+    background-color: #96DDA1;
+    margin-right: 42px;
+    margin-left: -1px;
+    margin-bottom: 35px;
+    padding-left: 0px;
+    width: 200px;
+}
+
+.container .main-section .article1 {
+    height: 124px;
+    padding-right: 174px;
+    background-color: #3DC555;
+    width: 1000px;
+    margin-left: 200px;
+}
+.container .main-section .article2 {
+    height: 124px;
+    padding-right: 174px;
+    background-color: #48AF38;
+    width: 1000px;
+    margin-right: 67px;
+    margin-left: 200px;
+}
+.container .main-section .article3 {
+    height: 124px;
+    padding-right: 174px;
+    background-color: #6AB567;
+    width: 1000px;
+    margin-left: 200px;
+}
+.container .main-footer {
+    height: 77px;
+    background-color: #51DC41;
+    margin-right: -92px;
+}
